@@ -5,7 +5,7 @@ Analysis of IBM HR dataset to identify key factors driving
 employee attrition using Python and Power BI.
 
 ## 📊 Dataset
-- Source: IBM HR Analytics Dataset (Kaggle)
+- Source: IBM HR Analytics Dataset (Kaggle) link: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset/data
 - 1,470 employees | 35 columns
 
 ## 🔑 Key Findings
